@@ -1,0 +1,26 @@
+
+[
+squid:S106	"9Replace this use of System.out or System.err by a logger.(¦Àˆøÿÿÿÿ8Åö£á»-
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.( ˜Ë°8±°³á»-
+|squid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ÎĞ©á»-
+|squid:S1171+"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ÜÈ·á»-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(°õ’ùúÿÿÿÿ8Ï§«á»-
+jsquid:S001015"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(î¯‘Éÿÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Û¡ıîûÿÿÿÿ
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(”§Ã8·£¶á»-
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(¾É­Â8å¶Áá»-
+V
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ì½Æá8ÜÈ·á»-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(´øƒÉùÿÿÿÿ8ÎĞ©á»-
+|squid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Åö£á»-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ñ­†Ğùÿÿÿÿ8Ùâ¥á»-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ı¼¯ÿÿÿÿÿ8ÎĞ©á»-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëÂçÍ8êš£á»-

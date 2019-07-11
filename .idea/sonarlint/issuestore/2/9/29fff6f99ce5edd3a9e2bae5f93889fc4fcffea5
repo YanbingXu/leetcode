@@ -1,0 +1,19 @@
+
+nsquid:S1192"KDefine a constant instead of duplicating this literal " score is " 4 times.(°Ú¾ïüÿÿÿÿ8Ñšİ‹²-
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(İ¸â¬şÿÿÿÿ
+lsquid:S1192"IDefine a constant instead of duplicating this literal "student " 4 times.(°Ú¾ïüÿÿÿÿ8¦ÎÖ‹²-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(’ÿËË8Ù˜÷Á»-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(âİê¼üÿÿÿÿ8Ù˜÷Á»-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(äÁÁá8Ù˜÷Á»-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(°Ú¾ïüÿÿÿÿ8Ù˜÷Á»-
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(´£ë8Ù˜÷Á»-
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(êØÖşÿÿÿÿÿ8Ù˜÷Á»-
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(×ÑúÜùÿÿÿÿ8Ù˜÷Á»-
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áâçöÿÿÿÿÿ8Ù˜÷Á»-
