@@ -6,98 +6,88 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75caa0e6-54e6-4790-84d6-1b9c84c7c977" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/BlockTest/Block.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/BlockTest/Leaf.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/BlockTest/Mid.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/BlockTest/Person.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/BlockTest/Root.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/BlockTest/Son.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/BlockTest/father.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/BlockTest/leafTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/DemoPackage/Account.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/DemoPackage/Animal.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/DemoPackage/AnimalTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/DemoPackage/Customer.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/DemoPackage/CustomerTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/DemoPackageExe2/Account.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/DemoPackageExe2/Bank.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/DemoPackageExe2/BankTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/DemoPackageExe2/Customer.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/DemoSort/QuickSort.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/DemoSort/insertSort.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/DemoSort/selectSort.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/DemoSort/shellSort.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/DemoSort/testSort1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Demostack/MyStack.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/array/util/ObjectOrientedArray.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/arrayDemo1Homework/binarySearchArr.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/arrayDemo1Homework/extendArr.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/arrayDemo1Homework/huixingTree.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/arrayDemo1Homework/objectArrStudentGrade.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/arrayDemo1Homework/objectArrStudentGrade2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/arrayDemo1Homework/reverseArr.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/arrayDemo1Homework/student.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/arrayDemo1Homework/student1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/arrayDemo1Homework/studentGrade.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/arrayDemo1Homework/yanghuiTrangel.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dataStructure/BinarySearch.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dataStructure/Fibonacci.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dataStructure/TestMyQueue.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dataStructure/TestMyStack.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dataStructure/testDoubleNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dataStructure/testHanota.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dataStructure/testLoopNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dataStructure/testMyNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dataStructure/testRecusive.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dataStructure/testarray.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/demoNode/LoopDoubleNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/demoNode/LoopNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/demoNode/Node.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/demoQueue/MyQueue.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/huaweiPractise/AskAndUpdateStudent.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/huaweiPractise/BigheadAndSmallHead.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/huaweiPractise/EmptyBottle.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/huaweiPractise/ExtractNoRepeatingInteger.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/huaweiPractise/FinalStrLength.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/huaweiPractise/MingRandomNum.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/huaweiPractise/SplitString.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/huaweiPractise/StrNumCalculate.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/huaweiPractise/approximateNumber.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/huaweiPractise/calStrNum.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/huaweiPractise/count1InInt.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/huaweiPractise/huawei0410byEdith.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/huaweiPractise/huawei0410byWangPu.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/huaweiPractise/huawei0410xiangGe.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/huaweiPractise/jinzhiTransfer.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/huaweiPractise/mergeMap.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/huaweiPractise/mistakeRecord.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/huaweiPractise/reverseNum.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/huaweiPractise/reverseSentence.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/huaweiPractise/reverseStr.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/huaweiPractise/shoppingList.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/huaweiPractise/strSortAsDictionary.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/huaweiPractise/test0403.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/huaweiPractise/test0410.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/huaweiPractise/test04103.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/huaweiPractise/zhishuFactor.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode/LongestSubstringWithoutRepeatingCharacters.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode/Solution.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode/addTwoNumbers$ListNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode/addTwoNumbers.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/project01/FamilyAccoumt.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/project01/util.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/project02/bean/Customer.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/project02/service/CustomerList.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/project02/ui/CustomerView.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/project02/util/CMUtility.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/singleton/Bank.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/singleton/Order.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/singleton/SingletonTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/singleton/singletonTest2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/vivo0604/Node.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/vivo0604/test01.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/vivo0604/test02.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/BlockTest/Block.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/BlockTest/Son.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/BlockTest/leafTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/DemoPackage/Account.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/DemoPackage/AnimalTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/DemoPackage/Customer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/DemoPackage/CustomerTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/DemoPackageExe2/Account.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/DemoPackageExe2/Bank.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/DemoPackageExe2/BankTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/DemoPackageExe2/Customer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/DemoSort/QuickSort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/DemoSort/insertSort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/DemoSort/selectSort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/DemoSort/shellSort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/DemoSort/testSort1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Demostack/MyStack.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/array/util/ObjectOrientedArray.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/arrayDemo1Homework/binarySearchArr.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/arrayDemo1Homework/extendArr.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/arrayDemo1Homework/huixingTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/arrayDemo1Homework/objectArrStudentGrade.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/arrayDemo1Homework/objectArrStudentGrade2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/arrayDemo1Homework/reverseArr.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/arrayDemo1Homework/studentGrade.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/arrayDemo1Homework/yanghuiTrangel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/dataStructure/BinarySearch.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/dataStructure/Fibonacci.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/dataStructure/TestMyQueue.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/dataStructure/TestMyStack.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/dataStructure/testDoubleNode.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/dataStructure/testHanota.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/dataStructure/testLoopNode.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/dataStructure/testMyNode.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/dataStructure/testRecusive.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/dataStructure/testarray.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/demoNode/LoopDoubleNode.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/demoNode/LoopNode.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/demoNode/Node.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/demoQueue/MyQueue.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/huaweiPractise/AskAndUpdateStudent.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/huaweiPractise/BigheadAndSmallHead.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/huaweiPractise/EmptyBottle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/huaweiPractise/ExtractNoRepeatingInteger.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/huaweiPractise/FinalStrLength.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/huaweiPractise/MingRandomNum.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/huaweiPractise/SplitString.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/huaweiPractise/StrNumCalculate.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/huaweiPractise/approximateNumber.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/huaweiPractise/calStrNum.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/huaweiPractise/count1InInt.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/huaweiPractise/huawei0410byEdith.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/huaweiPractise/huawei0410byWangPu.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/huaweiPractise/huawei0410xiangGe.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/huaweiPractise/jinzhiTransfer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/huaweiPractise/mergeMap.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/huaweiPractise/mistakeRecord.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/huaweiPractise/reverseNum.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/huaweiPractise/reverseSentence.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/huaweiPractise/reverseStr.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/huaweiPractise/shoppingList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/huaweiPractise/strSortAsDictionary.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/huaweiPractise/test0403.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/huaweiPractise/test0410.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/huaweiPractise/test04103.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/huaweiPractise/zhishuFactor.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/AddTwoNumbers.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/LongestSubstringWithoutRepeatingCharacters.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/MedianofTwoSortedArrays.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Two_Sum.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/project01/FamilyAccoumt.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/project01/util.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/project02/bean/Customer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/project02/service/CustomerList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/project02/ui/CustomerView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/project02/util/CMUtility.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/singleton" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/vivo0604/Node.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/vivo0604/test01.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/vivo0604/test02.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -515,7 +505,7 @@
       <workItem from="1562746404741" duration="861000" />
       <workItem from="1562747483133" duration="1124000" />
       <workItem from="1562749168075" duration="1109000" />
-      <workItem from="1562809302136" duration="1483000" />
+      <workItem from="1562809302136" duration="1790000" />
     </task>
     <task id="LOCAL-00001" summary="create project">
       <created>1562139317591</created>
@@ -619,7 +609,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="203088000" />
+    <option name="totallyTimeSpent" value="203395000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -638,7 +628,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32794118" sideWeight="0.5114449" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32794118" sideWeight="0.5114449" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4239291" sideWeight="0.49113232" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293944" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
