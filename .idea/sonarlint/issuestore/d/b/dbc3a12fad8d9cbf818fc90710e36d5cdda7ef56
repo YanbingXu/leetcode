@@ -1,6 +1,0 @@
-
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú»Ùê
-jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ý÷ŠŽþÿÿÿÿ
-Xsquid:UselessImportCheck"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(«ŸÿÂ8Å˜÷Á»-

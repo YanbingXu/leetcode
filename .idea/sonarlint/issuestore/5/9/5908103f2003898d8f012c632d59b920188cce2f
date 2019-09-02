@@ -1,9 +1,0 @@
-
-gsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(ÛöÌ¶üÿÿÿÿ
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú»Ùê
-ksquid:S00100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°³É†þÿÿÿÿ
-bsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(·Ãß”
-V
-squid:S106?"9Replace this use of System.out or System.err by a logger.(Ð‚æ¨8Ñ˜÷Á»-
-psquid:S00117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ‘Ê8Ñ˜÷Á»-
-usquid:S00117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Ç™Ýþÿÿÿÿ8Ñ˜÷Á»-

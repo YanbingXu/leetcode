@@ -1,44 +1,0 @@
-
-isquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(É…³8É”˜„²-
-:squid:S16435"Use a StringBuilder instead.(å¯¼¸8Î··†²-
-isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²Ü®Ù8‰ý—„²-
-isquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(±¯€¤8É”˜„²-
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûÈš”úÿÿÿÿ
-isquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(ð„•Ì8†§¤†²-
-W"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(Î‡›ó8Ä‡¹ƒ²-
-nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÍÎ®âþÿÿÿÿ8ãºõƒ²-
-:squid:S1643&"Use a StringBuilder instead.(ê¦ª¡8ª ¤„²-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÂÎ¸ß8¿˜÷Á»-
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(•³Ë8¿˜÷Á»-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(ý€þ²ýÿÿÿÿ8¿˜÷Á»-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(¼¼­8¿˜÷Á»-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(›ŸØ™8¿˜÷Á»-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÜñêÆÿÿÿÿÿ8¿˜÷Á»-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ëš³ÿýÿÿÿÿ8¿˜÷Á»-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(º­ñ˜þÿÿÿÿ8¿˜÷Á»-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(ç‘ë®üÿÿÿÿ8¿˜÷Á»-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(™Þ›í8¿˜÷Á»-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(•Ö¹Ñýÿÿÿÿ8¿˜÷Á»-
-[
-squid:S106("9Replace this use of System.out or System.err by a logger.(É§è³úÿÿÿÿ8¿˜÷Á»-
-V
-squid:S106,"9Replace this use of System.out or System.err by a logger.(ì²™8¿˜÷Á»-
-V
-squid:S106."9Replace this use of System.out or System.err by a logger.(Ÿë˜“8¿˜÷Á»-
-V
-squid:S1068"9Replace this use of System.out or System.err by a logger.(”âØ®8¿˜÷Á»-
-[
-squid:S106<"9Replace this use of System.out or System.err by a logger.(É§è³úÿÿÿÿ8¿˜÷Á»-
-[
-squid:S106@"9Replace this use of System.out or System.err by a logger.(Ë¼ãÿÿÿÿÿ8¿˜÷Á»-

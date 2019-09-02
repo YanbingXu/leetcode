@@ -1,9 +1,0 @@
-
-Œsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ÿˆè‹úÿÿÿÿ
-Žsquid:S1319"rThe type of the "strings" object should be an interface such as "List" rather than the implementation "ArrayList".(Ÿˆè‹úÿÿÿÿ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÄÅøÉ
-esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Õ¢ý’
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú»Ùê
-{squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ
-vsquid:S1149)"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
