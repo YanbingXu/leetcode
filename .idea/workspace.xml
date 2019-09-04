@@ -6,12 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75caa0e6-54e6-4790-84d6-1b9c84c7c977" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/simulatedAnealling/City.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/simulatedAnealling/SimulatedAnnealing.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/simulatedAnealling/Tour.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/simulatedAnealling/TourManager.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jianzhiOffer/src/main/java/ClockwisePrint.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Examination/Examination.iml" afterPath="$PROJECT_DIR$/Examination/Examination.iml" />
+      <change beforePath="$PROJECT_DIR$/basic/basic.iml" afterPath="$PROJECT_DIR$/basic/basic.iml" />
+      <change beforePath="$PROJECT_DIR$/leetcode.iml" afterPath="$PROJECT_DIR$/leetcode.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/basic/target/" />
@@ -44,11 +42,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimulatedAnnealing.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SimulatedAnnealing.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basic/src/main/java/simulatedAnealling/SimulatedAnnealing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="92" column="7" lean-forward="false" selection-start-line="92" selection-start-column="7" selection-end-line="92" selection-end-column="7" />
+            <state relative-caret-position="312">
+              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClockwisePrint.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jianzhiOffer/src/main/java/ClockwisePrint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -116,7 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/project02/bean/Custormer.java" />
         <option value="$PROJECT_DIR$/src/project02/service/CustomerList.java" />
         <option value="$PROJECT_DIR$/src/project02/ui/CustomerView.java" />
         <option value="$PROJECT_DIR$/src/singleton/SingletonTest.java" />
@@ -167,6 +174,7 @@
         <option value="$PROJECT_DIR$/basic/src/main/java/simulatedAnealling/SimulatedAnnealing.java" />
         <option value="$PROJECT_DIR$/basic/src/main/java/simulatedAnealling/Tour.java" />
         <option value="$PROJECT_DIR$/basic/src/main/java/simulatedAnealling/TourManager.java" />
+        <option value="$PROJECT_DIR$/jianzhiOffer/src/main/java/ClockwisePrint.java" />
       </list>
     </option>
   </component>
@@ -244,37 +252,28 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="jianzhiOffer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="jianzhiOffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="jianzhiOffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="jianzhiOffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="simulatedAnealling" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -547,7 +546,7 @@
       <workItem from="1563434877740" duration="3606000" />
       <workItem from="1565700308336" duration="1742000" />
       <workItem from="1566991500489" duration="7707000" />
-      <workItem from="1567407951962" duration="10654000" />
+      <workItem from="1567407951962" duration="12653000" />
     </task>
     <task id="LOCAL-00001" summary="create project">
       <created>1562139317591</created>
@@ -672,7 +671,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="238947000" />
+    <option name="totallyTimeSpent" value="240946000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -840,20 +839,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/basic/src/main/java/exercisePolymorphism/PayrollSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/MedianofTwoSortedArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/java/jdk_1.8.0_202/src.zip!/java/lang/Exception.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -1266,10 +1251,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-33412">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/basic/src/main/java/simulatedAnealling/SimulatedAnnealing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="92" column="7" lean-forward="false" selection-start-line="92" selection-start-column="7" selection-end-line="92" selection-end-column="7" />
+        <state relative-caret-position="312">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhiOffer/src/main/java/ClockwisePrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
           <folding />
         </state>
       </provider>
