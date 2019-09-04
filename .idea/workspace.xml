@@ -6,10 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75caa0e6-54e6-4790-84d6-1b9c84c7c977" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/jianzhiOffer/src/main/java/ClockwisePrint.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jianzhiOffer/src/main/java/StackIncludeMin.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/basic/basic.iml" afterPath="$PROJECT_DIR$/basic/basic.iml" />
-      <change beforePath="$PROJECT_DIR$/leetcode.iml" afterPath="$PROJECT_DIR$/leetcode.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/basic/target/" />
@@ -25,74 +23,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="City.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/src/main/java/simulatedAnealling/City.java">
+      <file leaf-file-name="StackIncludeMin.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jianzhiOffer/src/main/java/StackIncludeMin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1196">
-              <caret line="46" column="1" lean-forward="false" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-              <folding>
-                <element signature="e#393#394#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-                <element signature="e#466#467#0" expanded="true" />
-                <element signature="e#795#796#0" expanded="true" />
-                <element signature="e#836#837#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SimulatedAnnealing.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/src/main/java/simulatedAnealling/SimulatedAnnealing.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            <state relative-caret-position="-248">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClockwisePrint.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jianzhiOffer/src/main/java/ClockwisePrint.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tour.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/src/main/java/simulatedAnealling/Tour.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="93" column="1" lean-forward="false" selection-start-line="93" selection-start-column="1" selection-end-line="93" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#463#464#0" expanded="true" />
-                <element signature="e#515#516#0" expanded="true" />
-                <element signature="e#564#565#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#972#973#0" expanded="true" />
-                <element signature="e#1024#1025#0" expanded="true" />
-                <element signature="e#2075#2076#0" expanded="true" />
-                <element signature="e#2109#2110#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TourManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/src/main/java/simulatedAnealling/TourManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-              <folding>
-                <element signature="e#282#283#0" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
-                <element signature="e#501#502#0" expanded="true" />
-                <element signature="e#548#549#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -124,7 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/project02/service/CustomerList.java" />
         <option value="$PROJECT_DIR$/src/project02/ui/CustomerView.java" />
         <option value="$PROJECT_DIR$/src/singleton/SingletonTest.java" />
         <option value="$PROJECT_DIR$/src/singleton/singletonTest2.java" />
@@ -175,6 +110,7 @@
         <option value="$PROJECT_DIR$/basic/src/main/java/simulatedAnealling/Tour.java" />
         <option value="$PROJECT_DIR$/basic/src/main/java/simulatedAnealling/TourManager.java" />
         <option value="$PROJECT_DIR$/jianzhiOffer/src/main/java/ClockwisePrint.java" />
+        <option value="$PROJECT_DIR$/jianzhiOffer/src/main/java/StackIncludeMin.java" />
       </list>
     </option>
   </component>
@@ -323,31 +259,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SimulatedAnnealing">
+  <component name="RunManager" selected="Application.StackIncludeMin">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-    </configuration>
-    <configuration name="AskAndUpdateStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="huaweiPractise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="huaweiPractise.AskAndUpdateStudent" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Examination" />
-      <envs />
     </configuration>
     <configuration name="MirrorOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -380,6 +297,20 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="basic" />
+      <envs />
+    </configuration>
+    <configuration name="StackIncludeMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="StackIncludeMin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="jianzhiOffer" />
       <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -496,18 +427,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.approximateNumber" />
-      <item index="1" class="java.lang.String" itemvalue="Application.AskAndUpdateStudent" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MirrorOfBinaryTree" />
-      <item index="3" class="java.lang.String" itemvalue="Application.test01" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SimulatedAnnealing" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MirrorOfBinaryTree" />
+      <item index="2" class="java.lang.String" itemvalue="Application.test01" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SimulatedAnnealing" />
+      <item index="4" class="java.lang.String" itemvalue="Application.StackIncludeMin" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SimulatedAnnealing" />
-        <item index="1" class="java.lang.String" itemvalue="Application.test01" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MirrorOfBinaryTree" />
-        <item index="3" class="java.lang.String" itemvalue="Application.approximateNumber" />
-        <item index="4" class="java.lang.String" itemvalue="Application.AskAndUpdateStudent" />
+        <item index="0" class="java.lang.String" itemvalue="Application.StackIncludeMin" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SimulatedAnnealing" />
+        <item index="2" class="java.lang.String" itemvalue="Application.test01" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MirrorOfBinaryTree" />
+        <item index="4" class="java.lang.String" itemvalue="Application.approximateNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -546,7 +477,7 @@
       <workItem from="1563434877740" duration="3606000" />
       <workItem from="1565700308336" duration="1742000" />
       <workItem from="1566991500489" duration="7707000" />
-      <workItem from="1567407951962" duration="12653000" />
+      <workItem from="1567407951962" duration="15867000" />
     </task>
     <task id="LOCAL-00001" summary="create project">
       <created>1562139317591</created>
@@ -671,7 +602,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="240946000" />
+    <option name="totallyTimeSpent" value="244160000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -833,19 +764,18 @@
           <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jianzhiOffer/src/main/java/StackIncludeMin.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="19" />
+      <option name="time" value="23" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://E:/java/jdk_1.8.0_202/src.zip!/java/lang/Exception.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="45" column="63" lean-forward="true" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic/src/main/java/tryCatchThrowTest/EcmDef.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -1226,14 +1156,14 @@
           <caret line="93" column="1" lean-forward="false" selection-start-line="93" selection-start-column="1" selection-end-line="93" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#564#565#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#972#973#0" expanded="true" />
-            <element signature="e#1024#1025#0" expanded="true" />
-            <element signature="e#2075#2076#0" expanded="true" />
-            <element signature="e#2109#2110#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="false" />
+            <element signature="e#515#516#0" expanded="false" />
+            <element signature="e#564#565#0" expanded="false" />
+            <element signature="e#591#592#0" expanded="false" />
+            <element signature="e#972#973#0" expanded="false" />
+            <element signature="e#1024#1025#0" expanded="false" />
+            <element signature="e#2075#2076#0" expanded="false" />
+            <element signature="e#2109#2110#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1269,8 +1199,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jianzhiOffer/src/main/java/ClockwisePrint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        <state relative-caret-position="260">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhiOffer/src/main/java/StackIncludeMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-248">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
