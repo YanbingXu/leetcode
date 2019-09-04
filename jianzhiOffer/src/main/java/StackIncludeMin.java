@@ -17,19 +17,31 @@ public class StackIncludeMin {
     }
 
     public void pop() {
-        data.pop();
-        min.pop();
+        //增加边界条件判断
+        if(!data.isEmpty() && !min.isEmpty()){
+            data.pop();
+            min.pop();
+        }
 
     }
 
     public int top() {
+        //增加边界条件
+        if(!data.isEmpty()){
 
-        return data.peek();
+            return data.peek();
+        }
+
+        return 0;
     }
 
     public int min() {
-        return  min.peek();
+        //增加边界条件
+        if(!min.isEmpty()){
+            return  min.peek();
+        }
 
+        return 0;
     }
 
     public static void main(String[] args) {

@@ -6,8 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75caa0e6-54e6-4790-84d6-1b9c84c7c977" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/jianzhiOffer/src/main/java/StackIncludeMin.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/jianzhiOffer/src/main/java/StackIncludeMin.java" afterPath="$PROJECT_DIR$/jianzhiOffer/src/main/java/StackIncludeMin.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/basic/target/" />
@@ -26,8 +25,8 @@
       <file leaf-file-name="StackIncludeMin.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jianzhiOffer/src/main/java/StackIncludeMin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-248">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="637">
+              <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -477,7 +476,7 @@
       <workItem from="1563434877740" duration="3606000" />
       <workItem from="1565700308336" duration="1742000" />
       <workItem from="1566991500489" duration="7707000" />
-      <workItem from="1567407951962" duration="15867000" />
+      <workItem from="1567407951962" duration="16103000" />
     </task>
     <task id="LOCAL-00001" summary="create project">
       <created>1562139317591</created>
@@ -602,7 +601,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="244160000" />
+    <option name="totallyTimeSpent" value="244396000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -626,7 +625,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33069977" sideWeight="0.5114449" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32849163" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34972066" sideWeight="0.49113232" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34972066" sideWeight="0.49113232" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35977653" sideWeight="0.48855507" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -766,7 +765,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/jianzhiOffer/src/main/java/StackIncludeMin.java</url>
-          <line>39</line>
+          <line>51</line>
           <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
@@ -1140,12 +1139,12 @@
         <state relative-caret-position="1196">
           <caret line="46" column="1" lean-forward="false" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
           <folding>
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#795#796#0" expanded="true" />
-            <element signature="e#836#837#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="false" />
+            <element signature="e#417#418#0" expanded="false" />
+            <element signature="e#442#443#0" expanded="false" />
+            <element signature="e#466#467#0" expanded="false" />
+            <element signature="e#795#796#0" expanded="false" />
+            <element signature="e#836#837#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1155,7 +1154,7 @@
         <state relative-caret-position="480">
           <caret line="93" column="1" lean-forward="false" selection-start-line="93" selection-start-column="1" selection-end-line="93" selection-end-column="1" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="e#463#464#0" expanded="false" />
             <element signature="e#515#516#0" expanded="false" />
             <element signature="e#564#565#0" expanded="false" />
@@ -1173,10 +1172,10 @@
         <state relative-caret-position="156">
           <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
           <folding>
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="false" />
+            <element signature="e#325#326#0" expanded="false" />
+            <element signature="e#501#502#0" expanded="false" />
+            <element signature="e#548#549#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1207,8 +1206,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jianzhiOffer/src/main/java/StackIncludeMin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-248">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="637">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
           <folding />
         </state>
       </provider>
