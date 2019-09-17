@@ -6,7 +6,6 @@
       <module fileurl="file://$PROJECT_DIR$/basic/basic.iml" filepath="$PROJECT_DIR$/basic/basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/jianzhiOffer/jianzhiOffer.iml" filepath="$PROJECT_DIR$/jianzhiOffer/jianzhiOffer.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/basic/project03.iml" filepath="$PROJECT_DIR$/basic/project03.iml" />
     </modules>
   </component>
 </project>
