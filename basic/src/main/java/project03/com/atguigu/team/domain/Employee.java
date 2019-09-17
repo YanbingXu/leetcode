@@ -48,7 +48,7 @@ public class Employee {
         this.salary = salary;
     }
     public String getDetails(){
-        return id + '\t' + name + '\t' + age + '\t' + salary + '\t';
+        return id + "" + name + "\t" + age + '\t' + salary + '\t';
 
     }
 

@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11b6aff0-08c2-433d-ad84-5d0b437ad5f7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/domain/Architect.java" afterPath="$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/domain/Architect.java" />
-      <change beforePath="$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/domain/Designer.java" afterPath="$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/domain/Designer.java" />
       <change beforePath="$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/domain/Employee.java" afterPath="$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/domain/Employee.java" />
-      <change beforePath="$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/domain/Programmer.java" afterPath="$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/domain/Programmer.java" />
-      <change beforePath="$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/service/Status.java" afterPath="$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/service/Status.java" />
+      <change beforePath="$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/junit/NameListServiceTest.java" afterPath="$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/junit/NameListServiceTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/basic/target/" />
     <ignored path="$PROJECT_DIR$/Examination/target/" />
@@ -19,83 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NameListServiceTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/junit/NameListServiceTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Status.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/service/Status.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-              <folding>
-                <element signature="e#435#436#0" expanded="true" />
-                <element signature="e#462#463#0" expanded="true" />
-                <element signature="e#508#509#0" expanded="true" />
-                <element signature="e#535#536#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Designer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/domain/Designer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="23" column="78" lean-forward="false" selection-start-line="23" selection-start-column="78" selection-end-line="23" selection-end-column="78" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Architect.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/domain/Architect.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/domain/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
-              <folding>
-                <element signature="e#1022#1023#0" expanded="true" />
-                <element signature="e#1057#1058#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Programmer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/domain/Programmer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
-              <folding>
-                <element signature="e#483#484#0" expanded="true" />
-                <element signature="e#514#515#0" expanded="true" />
-                <element signature="e#953#954#0" expanded="true" />
-                <element signature="e#1053#1054#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -121,17 +42,17 @@
         <option value="$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/domain/Notebook.java" />
         <option value="$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/domain/Printer.java" />
         <option value="$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/service/TeamException.java" />
-        <option value="$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/service/NameListService.java" />
         <option value="$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/junit/Test.java" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/Two_Sum.java" />
         <option value="$PROJECT_DIR$/basic/pom.xml" />
-        <option value="$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/junit/NameListServiceTest.java" />
         <option value="$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/domain/Architect.java" />
         <option value="$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/domain/Designer.java" />
         <option value="$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/domain/Programmer.java" />
         <option value="$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/service/Status.java" />
+        <option value="$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/service/NameListService.java" />
         <option value="$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/domain/Employee.java" />
+        <option value="$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/junit/NameListServiceTest.java" />
       </list>
     </option>
   </component>
@@ -310,7 +231,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.NameListServiceTest.testGetAllEmployees">
+  <component name="RunManager" selected="JUnit.NameListServiceTest.testGetEmployee">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -395,6 +316,31 @@
       <envs />
       <patterns />
     </configuration>
+    <configuration name="NameListServiceTest.testGetEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="project03.com.atguigu.team.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="basic" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="project03.com.atguigu.team.junit" />
+      <option name="MAIN_CLASS_NAME" value="project03.com.atguigu.team.junit.NameListServiceTest" />
+      <option name="METHOD_NAME" value="testGetEmployee" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -455,16 +401,18 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.test01" />
       <item index="1" class="java.lang.String" itemvalue="Application.Solution" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.NameListServiceTest.testGetAllEmployees" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.NameListServiceTest.testGetEmployee" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.NameListServiceTest.testGetAllEmployees" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Solution" />
-        <item index="2" class="java.lang.String" itemvalue="Application.test01" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.NameListServiceTest.testGetEmployee" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.NameListServiceTest.testGetAllEmployees" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Solution" />
+        <item index="3" class="java.lang.String" itemvalue="Application.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -478,44 +426,43 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NameListServiceTest_testGetAllEmployees - 2019.09.17 at 17h 16m 10s.xml">
+    <history-entry file="NameListServiceTest_testGetAllEmployees - 2019.09.17 at 17h 33m 30s.xml">
       <configuration name="NameListServiceTest.testGetAllEmployees" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NameListServiceTest_testGetAllEmployees - 2019.09.17 at 17h 16m 32s.xml">
+    <history-entry file="NameListServiceTest_testGetAllEmployees - 2019.09.17 at 17h 33m 50s.xml">
       <configuration name="NameListServiceTest.testGetAllEmployees" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NameListServiceTest_testGetAllEmployees - 2019.09.17 at 17h 16m 49s.xml">
+    <history-entry file="NameListServiceTest_testGetAllEmployees - 2019.09.17 at 17h 34m 22s.xml">
       <configuration name="NameListServiceTest.testGetAllEmployees" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NameListServiceTest_testGetAllEmployees - 2019.09.17 at 17h 20m 57s.xml">
+    <history-entry file="NameListServiceTest_testGetAllEmployees - 2019.09.17 at 17h 34m 30s.xml">
       <configuration name="NameListServiceTest.testGetAllEmployees" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NameListServiceTest_testGetAllEmployees - 2019.09.17 at 17h 21m 19s.xml">
+    <history-entry file="NameListServiceTest_testGetAllEmployees - 2019.09.17 at 17h 35m 28s.xml">
       <configuration name="NameListServiceTest.testGetAllEmployees" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NameListServiceTest_testGetAllEmployees - 2019.09.17 at 17h 23m 24s.xml">
+    <history-entry file="NameListServiceTest_testGetAllEmployees - 2019.09.17 at 17h 35m 39s.xml">
       <configuration name="NameListServiceTest.testGetAllEmployees" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NameListServiceTest_testGetAllEmployees - 2019.09.17 at 17h 24m 07s.xml">
+    <history-entry file="NameListServiceTest_testGetAllEmployees - 2019.09.17 at 17h 35m 55s.xml">
       <configuration name="NameListServiceTest.testGetAllEmployees" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NameListServiceTest_testGetAllEmployees - 2019.09.17 at 17h 24m 50s.xml">
-      <configuration name="NameListServiceTest.testGetAllEmployees" configurationId="JUnit" />
+    <history-entry file="NameListServiceTest_testGetEmployee - 2019.09.17 at 17h 36m 36s.xml">
+      <configuration name="NameListServiceTest.testGetEmployee" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NameListServiceTest_testGetAllEmployees - 2019.09.17 at 17h 25m 00s.xml">
-      <configuration name="NameListServiceTest.testGetAllEmployees" configurationId="JUnit" />
+    <history-entry file="NameListServiceTest_testGetEmployee - 2019.09.17 at 17h 36m 58s.xml">
+      <configuration name="NameListServiceTest.testGetEmployee" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NameListServiceTest_testGetAllEmployees - 2019.09.17 at 17h 25m 17s.xml">
-      <configuration name="NameListServiceTest.testGetAllEmployees" configurationId="JUnit" />
+    <history-entry file="NameListServiceTest_testGetEmployee - 2019.09.17 at 17h 37m 08s.xml">
+      <configuration name="NameListServiceTest.testGetEmployee" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17201000" />
+    <option name="totallyTimeSpent" value="17978000" />
   </component>
   <component name="TodoView" selected-index="3" />
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32849163" sideWeight="0.48569384" order="6" side_tool="false" content_ui="tabs" />
@@ -526,11 +473,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33069977" sideWeight="0.5114449" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32844242" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35214448" sideWeight="0.49113232" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35214448" sideWeight="0.49113232" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35977653" sideWeight="0.48855507" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32822758" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32822758" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24970274" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32849163" sideWeight="0.49427754" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -902,14 +849,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/service/Data.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="33" column="9" lean-forward="false" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/junit/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -945,14 +884,6 @@
             <element signature="e#607#608#0" expanded="false" />
             <element signature="e#655#656#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/service/NameListService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="106" column="5" lean-forward="false" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1024,7 +955,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/domain/Architect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
+        <state relative-caret-position="572">
           <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
@@ -1032,25 +963,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/domain/Designer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
+        <state relative-caret-position="494">
           <caret line="23" column="78" lean-forward="false" selection-start-line="23" selection-start-column="78" selection-end-line="23" selection-end-column="78" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/junit/NameListServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/service/Status.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
+        <state relative-caret-position="602">
           <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
           <folding>
             <element signature="e#435#436#0" expanded="true" />
@@ -1061,9 +982,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/service/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/domain/Programmer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
+        <state relative-caret-position="602">
           <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
           <folding>
             <element signature="e#483#484#0" expanded="true" />
@@ -1076,11 +1005,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/domain/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+        <state relative-caret-position="680">
+          <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
           <folding>
-            <element signature="e#1022#1023#0" expanded="true" />
-            <element signature="e#1057#1058#0" expanded="true" />
+            <element signature="e#1020#1021#0" expanded="true" />
+            <element signature="e#1055#1056#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/service/NameListService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1504">
+          <caret line="25" column="50" lean-forward="false" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/src/main/java/project03/com/atguigu/team/junit/NameListServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
