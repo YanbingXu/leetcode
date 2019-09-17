@@ -4,7 +4,7 @@ import project03.com.atguigu.team.service.Status;
 
 public class Programmer extends Employee {
     private int memberId;//开发团队中的id
-    private Status status ;
+    private Status status = Status.FREE ;
     private Equipment equipment;
 
     public Programmer() {
@@ -37,5 +37,10 @@ public class Programmer extends Employee {
 
     public void setEquipment(Equipment equipment) {
         this.equipment = equipment;
+    }
+
+    @Override
+    public String toString() {
+        return getDetails() + "\t程序员\t" + status + "\t\t\t\t\t" + equipment.getDescription();
     }
 }
