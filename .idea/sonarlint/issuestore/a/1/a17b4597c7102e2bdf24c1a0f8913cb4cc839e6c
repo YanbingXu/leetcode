@@ -1,7 +1,0 @@
-
-3squid:S1643H"Use a StringBuilder instead.(ïÓ£ı
-bsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(úúıÔ
-bsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(œ˜Í€
-Nsquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú»Ùê
-Vsquid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
