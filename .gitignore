@@ -1,6 +1,7 @@
 #过滤文件夹target,.idea
 /target
 /.idea/workspace.xml
+/.idea/sonarlint/
 /out
 *.iml
 
