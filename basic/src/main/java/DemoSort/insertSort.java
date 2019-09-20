@@ -2,6 +2,13 @@ package DemoSort;
 
 import java.util.Arrays;
 
+/**
+ * 时间复杂度   平均     最好  最坏
+ *             O(n^2)   O(n)  O(n^2)
+ * 空间复杂度   O（1）
+ * 稳定
+ */
+
 public class insertSort {
     public static void main(String[] args) {
         int[] arr = new int[] {3,2,4,1,7,5,9,0,8};

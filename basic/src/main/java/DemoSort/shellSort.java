@@ -2,6 +2,12 @@ package DemoSort;
 
 import java.util.Arrays;
 
+/**
+ * 时间复杂度   平均     最好  最坏
+ *             O(n^1.3)   O(n)  O(n^2)
+ * 空间复杂度   O（1）
+ * 不稳定
+ */
 public class shellSort {
     public static void main(String[] args) {
         int[] arr =new int[]{3,1,5,2,6,8,9,3,1,0};

@@ -2,6 +2,12 @@ package DemoSort;
 
 import java.util.Arrays;
 
+/**
+ * 时间复杂度   平均        最好     最坏
+ *             O(nlogn) O(nlogn) O(n^2)
+ * 空间复杂度   O（nlogn）
+ * 不稳定
+ */
 public class QuickSort {
     public static void main(String[] args) {
         int[] arr = new int[]{3, 0, 1, 5, 9, 7, 4, 3, 8};

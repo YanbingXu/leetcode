@@ -22,6 +22,10 @@ public class testSort1 {
     /**
      *
      * 3,6,2,6,1,4,7,9,0,8共比较n-1轮
+     * 时间复杂度   平均     最好  最坏
+     *             O(n^2)   O(n)  O(n^2)
+     * 空间复杂度   O（1）
+     * 稳定
      *
      */
     public static void BubbleSort(int[] arr){
