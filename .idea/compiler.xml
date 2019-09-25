@@ -14,9 +14,9 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="basic" target="1.8" />
-      <module name="Examination" target="1.5" />
-      <module name="jianzhiOffer" target="1.5" />
-      <module name="leetcode" target="1.5" />
+      <module name="Examination" target="1.8" />
+      <module name="jianzhiOffer" target="1.8" />
+      <module name="leetcode" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
