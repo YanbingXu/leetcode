@@ -13,20 +13,25 @@ public class StringAfterClassTest3 {
         String maxString = (str1.length()>=str2.length())?str1:str2;
         String minString = (str1.length()<str2.length())?str1:str2;
 
-        int length = minString.length();
+        //完善一下鲁棒性
+        if(maxString!=null && minString!=null){
 
-        for (int i = 0; i <=length ; i++) {
-            for(int x=0,y=length-i;y<=length;x++,y++){
-                if(maxString.contains(minString.substring(x,y))){
-                    return minString.substring(x,y);
+            int length = minString.length();
+
+            for (int i = 0; i <=length ; i++) {
+                for(int x=0,y=length-i;y<=length;x++,y++){
+                    if(maxString.contains(minString.substring(x,y))){
+                        return minString.substring(x,y);
+                    }
+
                 }
+
 
             }
 
-
         }
-
         return null;
+
 
     }
 
