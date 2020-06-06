@@ -50,28 +50,7 @@ public class StringConvertMethod {
 
     }
 
-    /*
-    例题：abc123--->a21cb3
-     */
-    @Test
-    public void test3(){
-        String str = "abc123";
-        char[] charArray = str.toCharArray();
-        char[] charArrayNew = new char[charArray.length-1];
-        for (int i = 1; i <charArray.length-1 ; i++) {
 
-            charArrayNew[i]=charArray[charArray.length-1-i];
-            System.out.println(charArrayNew[i]);
-
-
-        }
-        for (int j = 1; j < charArray.length-1; j++) {
-            charArray[j]=charArrayNew[j];
-
-        }
-        String string = new String(charArray);
-        System.out.println(string);
-    }
 
 
     /*
