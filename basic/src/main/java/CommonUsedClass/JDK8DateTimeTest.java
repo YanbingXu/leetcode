@@ -3,6 +3,9 @@ package CommonUsedClass;
 import org.junit.Test;
 
 import java.time.*;
+import java.time.format.DateTimeFormatter;
+import java.time.format.FormatStyle;
+import java.time.temporal.TemporalAccessor;
 import java.util.Date;
 
 /**
@@ -99,5 +102,44 @@ public class JDK8DateTimeTest {
         //通过给定的毫秒数获取Instant实例--->Date(毫秒数)
         Instant instant1 = Instant.ofEpochMilli(1598764728829L);
         System.out.println(instant1);
+    }
+
+
+    /*
+    DateTimeFormatter:格式化或解析日期，时间
+    类似与SimpleDateFormat
+     */
+    @Test
+    public void testDateTimeFormatter(){
+        //实例化方法
+        //1。预定义的标准格式
+        DateTimeFormatter isoLocalDateTime = DateTimeFormatter.ISO_LOCAL_DATE_TIME;
+        //格式化:日期-->字符串
+        LocalDateTime now = LocalDateTime.now();
+        String format = isoLocalDateTime.format(now);
+        System.out.println(now);
+        System.out.println(format);
+
+        //解析：
+        TemporalAccessor parse = isoLocalDateTime.parse("2020-06-08T16:43:24.34");
+        System.out.println(parse);
+
+        //2。本地化方式
+        DateTimeFormatter dateTimeFormatter = DateTimeFormatter.ofLocalizedDateTime(FormatStyle.SHORT);
+        //格式化
+        String format1 = dateTimeFormatter.format(now);
+        System.out.println(format1);//20-6-8 下午6:26
+
+
+        //3。自定义的格式
+        DateTimeFormatter dateTimeFormatter1 = DateTimeFormatter.ofPattern("yyyy-MM-dd hh:mm:ss");
+        //格式化
+        String format2 = dateTimeFormatter1.format(LocalDateTime.now());
+        System.out.println(format2);//2020-06-08 06:32:52
+        //解析
+        TemporalAccessor parse1 = dateTimeFormatter1.parse("2020-06-08 06:32:52");
+        System.out.println(parse1);
+
+
     }
 }
