@@ -1,5 +1,10 @@
 package AnnotationTest;
 
+import org.junit.Test;
+
+import java.lang.annotation.Annotation;
+import java.util.ArrayList;
+
 /**
  * 注解的使用
  * 1。理解annotation
@@ -21,7 +26,36 @@ package AnnotationTest;
  *
  * 实例三：跟踪代码依赖性，实现替代配置文件功能
  *
+ * 3.如何自定义注解：参照supressWarnings定义
+ * 1）注解声明为@interface
+ * 2)内部是成员变量，但是形式类似一个方法，String value（）
+ * 3）可以指定成员的默认值，使用default定义
+ * 4）如果自定义注解没有成员，表明是一个标识作用
  *
+ *
+ * 如果注解有成员，使用注解时需要指定成员值
+ * 自定义注解必须配上注解的信息处理流程（反射）才有意义
+ * 自定义注解通常都会指明两个元注解，retention和target
+ *
+ *
+ * 4.jdk提供的4种元注解
+ *   元注解：对现有注解进行解释说明的注解
+ *   1）Retention：指定所修饰的annotation的生命周期，source、class（默认行为）、runtime
+ *                  只有声明为runtime生命周期的注解，才能通过反射获取
+ *   2）Target：用于指定被修饰的Annotation能用于修饰哪些程序元素
+ *   ******************出现频率较低**************************************
+ *   3）Document：标示所修饰的注解在被javadoc解析时被保留下来，
+ *   4）Inherited：被他修饰的annotation将具有继承性
+ *
+ *5.通过反射来获取注解信息
+ *
+ *
+ *6.jdk8中关于注解的新特性：
+ *  1。可重复注解 1)在myannotation声明@repeatable，成员值为myannotations.class
+ *              2）myannotation的target和retention必须和myannotations相同
+ *  2。类型注解
+ *  ElementType.TYPE_PARAMETER表示该注解能写在类型变量的声明语句中（如：范形声明）
+ *  ElementTYpe.TYPE_USE表示该注解能写在使用类型的任何语句中
  */
 public class annotationTest {
     public static void main(String[] args) {
@@ -31,8 +65,23 @@ public class annotationTest {
         @SuppressWarnings("unused")
         int num = 10;
     }
+
+    @Test
+    public void testGetAnnotation(){//为什么这里不会跳出继承的annotation？----Rentention一定要写成runtime才能用反射
+        Class<student> studentClass = student.class;
+        Annotation[] annotations = studentClass.getAnnotations();
+        for (int i = 0; i < annotations.length; i++) {
+            System.out.println(annotations[i]);
+        }
+    }
 }
 
+
+//jdk8之前的可重复注解办法
+//@MyAnnotations({@MyAnnotation(value="hi"),@MyAnnotation(value = "abc")})
+//jdk8之后的可重复注解
+@MyAnnotation(value = "hi")
+@MyAnnotation(value = "abc")
 class person{
     private String name;
     private int age;
@@ -70,5 +119,12 @@ class student extends person implements info{
     public void show() {
 
     }
+
+}
+
+//类型注解例子
+class Generic<@MyAnnotation T>{
+
+    ArrayList<@MyAnnotation String> list = new ArrayList<>();
 
 }
