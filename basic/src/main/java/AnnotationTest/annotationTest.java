@@ -27,6 +27,9 @@ public class annotationTest {
     public static void main(String[] args) {
         person p = new student();
         p.walk();
+
+        @SuppressWarnings("unused")
+        int num = 10;
     }
 }
 
