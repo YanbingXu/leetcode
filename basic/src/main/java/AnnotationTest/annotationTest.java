@@ -52,7 +52,7 @@ import java.util.ArrayList;
  *
  *6.jdk8中关于注解的新特性：
  *  1。可重复注解 1)在myannotation声明@repeatable，成员值为myannotations.class
- *              2）myannotation的target和retention必须和myannotations相同
+ *              2）myannotation的target和retention等元注解必须和myannotations相同
  *  2。类型注解
  *  ElementType.TYPE_PARAMETER表示该注解能写在类型变量的声明语句中（如：范形声明）
  *  ElementTYpe.TYPE_USE表示该注解能写在使用类型的任何语句中
